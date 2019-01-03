@@ -1,0 +1,11 @@
+.rotator {
+  position: relative;
+}
+
+.rotator .item {
+  list-style: none;
+  position: absolute;
+  left: 0;
+  opacity: 0;
+  top: 100px;
+}

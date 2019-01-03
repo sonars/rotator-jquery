@@ -1,0 +1,30 @@
+// out: ../../dist/css/demo.css, compress: true, sourceMap: false, autoprefixer: last 5 versions, groupmedia: true
+body,
+html {
+    height: 100vh;
+    width: 100%;
+} // html
+* {
+    margin: 0;
+    padding: 0;
+} // *
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(to bottom, lighten(cornflowerblue, 10%) 35%, darken(cornflowerblue, 10%) 55%, darken(cornflowerblue, 13%) 100%)
+}
+
+.rotator {
+    height: 50px;
+    line-height: 50px;
+    overflow: hidden;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    transform: translate(-50%, -50%);
+    .item {
+        width: 100%;
+        font-size: 2rem;
+    }
+} // .rotato

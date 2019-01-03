@@ -1,0 +1,11 @@
+// out: ../../dist/css/rotator.css, compress: false, sourceMap: false, autoprefixer: last 5 versions, groupmedia: true
+.rotator {
+    position: relative;
+    .item {
+        list-style: none;
+        position: absolute;
+        left: 0;
+        opacity: 0;
+        top: 100px;
+    } // .rotator li
+} // .rotator
