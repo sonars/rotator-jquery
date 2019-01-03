@@ -1,0 +1,26 @@
+{
+    "name": "@sonars/rotator",
+    "version": "1.0.0",
+    "description": "rotate text is small plugin to rotate text",
+    "main": "src/rotator.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": "sonars/rotator-jquery",
+    "keywords": [
+        "rotator",
+        "jquery rotator",
+        "text flip",
+        "text rotator",
+        "sonars"
+    ],
+    "author": "brainlabsweb",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/sonars/rotator-jquery/issues"
+    },
+    "homepage": "https://github.com/sonars/rotator-jquery#readme",
+    "dependencies": {
+        "jquery": "^3.3.1"
+    }
+}
