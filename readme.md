@@ -1,5 +1,6 @@
 ## @sonars/rotator
 
+![npm scoped](https://img.shields.io/npm/v/@sonars/rotator.svg?style=flat-square)
 ![issues](https://img.shields.io/github/issues/sonars/rotator-jquery.svg?style=flat-square)
 ![forks](	https://img.shields.io/github/forks/sonars/rotator-jquery.svg?style=flat-square)
 ![stars](https://img.shields.io/github/stars/sonars/rotator-jquery.svg?style=flat-square)
