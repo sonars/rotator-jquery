@@ -1,5 +1,5 @@
 {
-    "name": "sonars/rotator",
+    "name": "@sonars/rotator-jquery",
     "version": "1.0.0",
     "description": "rotate text is small plugin to rotate text",
     "main": "src/rotator.js",
